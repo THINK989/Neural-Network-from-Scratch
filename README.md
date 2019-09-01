@@ -29,6 +29,11 @@ Here is a BiBTeX citation as well:
 - Pandas 0.24.2
 - IPython 7.5.0
 
+## To Clone Repository
+- Type
+  `$ git clone https://github.com/THINK989/Neural-Network-from-Scratch.git`
+  in GIT Bash
+
 ## To RUN it on your computer
 
 **Follow the steps given below:-**

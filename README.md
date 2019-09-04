@@ -4,7 +4,7 @@ This repository contains a Deep Neural Network implemented in scratch. The code 
 is more readable. The architecture is explained completely in the .ipynb file in `/MLP_from _scratch/` folder. 
 The neural network is used for classification of results of Dota 2 games.
 
-# Citations
+# Acknowledgement
 
 The Dataset used in this repository is from UCI Repositories.Visit https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results# to look 
 at the detailed description of the data.
